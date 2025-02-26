@@ -1,0 +1,63 @@
+.container{
+    padding-top: 10px;
+}
+.navbar .navleft{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+
+}
+.card .card-header img{
+    border: 10px;
+    border-color: aqua;
+    height: 40px;
+    width: 40px;
+     border-radius: 50%;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+#card-header{
+    height: 40px;
+}
+#addicon{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 70px;
+    width: 70px;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    text-align: center;
+    font-size: 30px;
+  
+}
+#loginuser{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#usernamespan{
+    font-size: 40px;
+}
+.commentdiv{
+    background-color: rgb(164, 234, 212);
+}
+#comentheader{
+    border: 0;
+}
+
+.info{
+    color: rgb(172, 172,172);
+    font-weight: 100px;
+}
+.info span{
+    color:black;
+    font-size:50px
+
+}
+.info-card{
+    font-size: 20px;
+}
